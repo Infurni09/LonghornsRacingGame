@@ -1,0 +1,12 @@
+{
+  "name": "longhorns-racing",
+  "version": "1.0.0",
+  "description": "Longhorns Racing: The Game — a 2D top-down browser racing game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
